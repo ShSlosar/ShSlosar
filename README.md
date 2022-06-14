@@ -1,9 +1,6 @@
 # Hey! Im Shelby! I'm a Passionate Full-Stack Developer; with a love for creative problem solving!
 
 ### Technologies:
- # Hey! Im Shelby! I'm a Passionate Full-Stack Developer; with a love for creative problem solving!
-
-### Technologies:
 HTML5 | CSS | BootStrap | JS | AJAX | Python | Flask | MySQL | RESTful APIs | Git 
 
 ### I'M Currently learning MERN!

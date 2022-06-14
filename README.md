@@ -1,23 +1,23 @@
 # Hey! Im Shelby! I'm a Passionate Full-Stack Developer; with a love for creative problem solving!
 
-##Technologies:
+### Technologies:
  # Hey! Im Shelby! I'm a Passionate Full-Stack Developer; with a love for creative problem solving!
 
-##Technologies:
+### Technologies:
 HTML5 | CSS | BootStrap | JS | AJAX | Python | Flask | MySQL | RESTful APIs | Git 
 
-## I'M Currently learning MERN!
+### I'M Currently learning MERN!
 Mongo DB | Express | React | Node.js
 
-## My Current Project is The Dungeon Dashboard!
-# Noteable Tech used
--BootStrap
--JS/AJAX
--Python
--Flask
--MySQL
--RESTful APIs
--Git
+### My Current Project is The Dungeon Dashboard!
+Noteable Tech used
+- BootStrap
+- JS/AJAX
+- Python
+- Flask
+- MySQL
+- RESTful APIs
+- Git
 
       
 

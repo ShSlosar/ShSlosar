@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shelby</h1>
 <h3 align="center">I'm a Passionate Full-Stack Developer; with a love for creative problem solving! Skilled using AJAX, And REST APIs.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shslosar" alt="shslosar" /></a> </p>
 
 - 🌱Currently learning **Mongo DB, Express, React**
 

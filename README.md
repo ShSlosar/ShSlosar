@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shelby Slosar!</h1>
-<h3 align="center">I'm a Passionate Full-Stack Developer from the Seattle area, with a love for learning, and creative problem solving!</h3>
+<h3 align="center">I'm a Passionate Full-Stack Developer, from the Seattle area, with a love for learning, and creative problem solving!</h3>
 
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/ShSlosar?tab=repositories)
